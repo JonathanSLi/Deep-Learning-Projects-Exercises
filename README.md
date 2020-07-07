@@ -5,3 +5,4 @@ Includes:
 * Gradient Descent Implementation-first-neural-network
 * Style Transfer Exercise
 * RNN/LSTM Exercise
+* Sentiment Analysis Using RNN
