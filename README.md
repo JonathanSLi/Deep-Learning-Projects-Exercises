@@ -7,3 +7,4 @@ Includes:
 * RNN/LSTM Exercise
 * Sentiment Analysis Using RNN
 * Digit MNIST using GAN
+* CycleGAN exercise
